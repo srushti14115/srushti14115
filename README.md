@@ -2,6 +2,7 @@
 
 ### 🎓 About Me
 
+
 📊 Bachelor of Engineering student passionate about **Data Analytics** and **data-driven problem-solving**.  
 
 📈 Interested in working with data to uncover patterns, generate actionable insights, and support smarter decision-making.  
