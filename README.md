@@ -43,6 +43,4 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=srushti14115&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-
 ![](https://komarev.com/ghpvc/?username=srushti14115&label=Profile%20Views&color=0e75b6&style=flat)**
