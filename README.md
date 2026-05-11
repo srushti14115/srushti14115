@@ -1,4 +1,4 @@
- 💫 Welcome to Srushti Patil's Portfolio 👋
+## 💫 Welcome to Srushti Patil's Portfolio 👋
 
 #### 🎓 About Me
 
