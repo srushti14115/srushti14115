@@ -39,16 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=srushti14115&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=srushti14115&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srushti14115&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
 #### 🔝 Top Contributions
 
 ![](https://github-contributor-stats.vercel.app/api?username=srushti14115&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
