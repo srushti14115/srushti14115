@@ -1,6 +1,6 @@
-## 💫 Welcome to Srushti Patil's Portfolio 👋
+## Welcome to Srushti Patil's Portfolio 👋
 
-#### 🎓 About Me
+### 🎓 About Me
 
 📊 Bachelor of Engineering student passionate about **Data Analytics** and **data-driven problem-solving**.  
 
@@ -10,7 +10,7 @@
 
 ---
 
-#### ✨ Skills & Insights
+### ✨ Skills & Insights
 
 ✔ Strong interest in **Data Analytics** and **Business Intelligence**  
 ✔ Hands-on experience with **Python, SQL, Power BI, and Excel**  
@@ -20,14 +20,13 @@
 
 ---
 
-#### 🌐 Socials
+### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srushti-patil1411)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srushtipatil14115@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srushti-patil1411)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srushtipatil14115@gmail.com)
 
 ---
 
-#### 💻 Tech Stack
+### 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -40,7 +39,7 @@
 
 ---
 
-#### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=srushti14115&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 
