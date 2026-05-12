@@ -1,53 +1,64 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srushti14115/portfolio-assets/11d1faf6f4f49c9e1798add87b1150f17cfb2344/github%20banner.png" width="100%" height="200px" style="object-fit: cover;" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f1c40f&text=Welcome%20to%20Srushti%20Patil's%20Portfolio&fontSize=45&fontAlignY=50&fontWeight=800&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Srushti%20Patil&fontSize=80&fontAlignY=35&animation=fadeIn&theme=dark" width="100%" />
 </p>
 
-
-### 🎓 About Me
-
-
-
-📊 Bachelor of Engineering student passionate about **Data Analytics** and **data-driven problem-solving**.  
-
-📈 Interested in working with data to uncover patterns, generate actionable insights, and support smarter decision-making.  
-
-🚀 Continuously learning and improving through real-world analytics and dashboard development projects.  
+<p align="center">
+<a href="https://github.com/srushti14115">
+  <img src="https://github-readme-stats.vercel.app/api?username=srushti14115&show_icons=true&theme=transparent&hide_border=true&title_color=f1c40f&text_color=ffffff&icon_color=f1c40f&bg_color=00000000" alt="Srushti's GitHub Stats" />
+</a>
+</p>
 
 ---
 
-### ✨ Skills & Insights
+### 🚀 Quick Navigation (Interactive)
+*Click the sections below to expand them with a "pop" effect!*
 
-✔ Strong interest in **Data Analytics** and **Business Intelligence**  
-✔ Hands-on experience with **Python, SQL, Power BI, and Excel**  
-✔ Skilled in **Data Cleaning, Visualization, and Reporting**  
-✔ Building practical analytics and dashboard projects  
-✔ Focused on solving business problems using data  
+<details>
+<summary><b>🎓 About Me</b></summary>
+<br>
+<blockquote>
+  📊 <b>Bachelor of Engineering</b> student passionate about <b>Data Analytics</b> and data-driven problem-solving.<br><br>
+  📈 Interested in uncovering patterns, generating actionable insights, and supporting smarter decision-making.<br><br>
+  🚀 Continuously learning through real-world analytics and dashboard development.
+</blockquote>
+</details>
 
----
-
-### 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srushti-patil1411)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srushtipatil14115@gmail.com)
-
----
-
-### 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white)
+<details>
+<summary><b>✨ Skills & Insights</b></summary>
+<br>
+<ul>
+  <li>✔ Strong interest in <b>Data Analytics</b> and <b>Business Intelligence</b></li>
+  <li>✔ Hands-on experience with <b>Python, SQL, Power BI, and Excel</b></li>
+  <li>✔ Skilled in <b>Data Cleaning, Visualization, and Reporting</b></li>
+  <li>✔ Building practical analytics and dashboard projects</li>
+</ul>
+</details>
 
 ---
 
-### **🔝 Top Contributions**
+### 💻 Tech Stack (Animated Hover Icons)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,powerbi,pandas,numpy,excel,github,canva&theme=dark" />
+  </a>
+</p>
 
-**![](https://komarev.com/ghpvc/?username=srushti14115&label=Profile%20Views&color=0e75b6&style=flat)**
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/srushti-patil1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srushti-patil1411" height="30" width="40" /></a>
+<a href="mailto:srushtipatil14115@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="srushtipatil14115" height="30" width="40" /></a>
+</p>
+
+---
+
+### 📊 Activity & Contributions
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srushti14115&theme=transparent&hide_border=true&stroke=f1c40f&ring=f1c40f&fire=f1c40f&currStreakLabel=f1c40f" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushti14115&layout=compact&theme=transparent&hide_border=true&title_color=f1c40f&text_color=ffffff" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srushti14115&label=PROFILE+VIEWS&color=f1c40f&style=flat-square" />
+</p>
