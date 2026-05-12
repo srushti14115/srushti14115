@@ -1,72 +1,79 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Srushti%20Patil&fontSize=80&fontAlignY=35&animation=fadeIn&theme=dark" width="100%" />
-</p>
-
-
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Srushti%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=SRUSHTI%20PATIL&fontSize=70&fontAlignY=50&animation=twinkling&fontColor=f1c40f" width="100%" />
 </p>
 
 <div align="center">
-
-### 📱 INTERACTIVE PORTFOLIO DASHBOARD
-*Click the buttons below to expand the 3D modules*
-
-<br>
-
-<details>
-<summary><b>📂 [ MODULE 01 ] : ABOUT ME</b></summary>
-<p align="left">
-<br>
-  <img src="https://raw.githubusercontent.com/srushti14115/portfolio-assets/11d1faf6f4f49c9e1798add87b1150f17cfb2344/github%20banner.png" width="100%" style="border-radius: 15px;" />
-  <br><br>
-  📊 <b>Bachelor of Engineering</b> student passionate about <b>Data Analytics</b> and data-driven problem-solving.<br>
-  📈 Interested in working with data to uncover patterns and generate actionable insights.<br>
-  🚀 Continuously learning through real-world analytics and dashboard development projects.
-</p>
-</details>
-
-<details>
-<summary><b>⚡ [ MODULE 02 ] : SKILLS & INSIGHTS</b></summary>
-<p align="left">
-<br>
-  ✔ Strong interest in <b>Data Analytics</b> and <b>Business Intelligence</b><br>
-  ✔ Hands-on experience with <b>Python, SQL, Power BI, and Excel</b><br>
-  ✔ Skilled in <b>Data Cleaning, Visualization, and Reporting</b><br>
-  ✔ Focused on solving business problems using data
-</p>
-</details>
-
-<details>
-<summary><b>🛠️ [ MODULE 03 ] : TECH STACK</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,powerbi,pandas,numpy,excel,github,canva&theme=dark" />
-</p>
-</details>
-
+  <table border="0">
+    <tr>
+      <td>
+        <details>
+          <summary align="center">
+            <img src="https://img.shields.io/badge/-ABOUT%20ME-f1c40f?style=for-the-badge&logo=about.me&logoColor=black" />
+          </summary>
+          <br />
+          <blockquote>
+            📊 <b>BE Student @ SJCEM</b> (Grad 2027)<br />
+            📈 Aspiring <b>Data Analyst</b> & Data Scientist.<br />
+            🚀 Passionate about actionable insights and KPI dashboards.
+          </blockquote>
+        </details>
+      </td>
+      <td>
+        <details>
+          <summary align="center">
+            <img src="https://img.shields.io/badge/-MY%20SKILLS-9b59b6?style=for-the-badge&logo=google-analytics&logoColor=white" />
+          </summary>
+          <br />
+          <ul>
+            <li>✔ Python & SQL Specialist</li>
+            <li>✔ Power BI & Excel Dashboards</li>
+            <li>✔ Data Cleaning & Reporting</li>
+          </ul>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <details>
+          <summary align="center">
+            <img src="https://img.shields.io/badge/-TECH%20STACK-3498db?style=for-the-badge&logo=codeforces&logoColor=white" />
+          </summary>
+          <br />
+          <p align="center">
+            <img src="https://skillicons.dev/icons?i=py,mysql,postgres,powerbi,pandas,numpy,excel&theme=dark" />
+          </p>
+        </details>
+      </td>
+      <td>
+        <details>
+          <summary align="center">
+            <img src="https://img.shields.io/badge/-CONNECT-2ecc71?style=for-the-badge&logo=linktree&logoColor=white" />
+          </summary>
+          <br />
+          <p align="center">
+            <a href="https://www.linkedin.com/in/srushti-patil1411"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+            <a href="mailto:srushtipatil14115@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+          </p>
+        </details>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📊 REAL-TIME ANALYTICS (3D RENDER)
+### 📊 DATA ANALYTICS HUB (Animated Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srushti14115&show_icons=true&theme=transparent&hide_border=true&title_color=f1c40f&text_color=ffffff&icon_color=f1c40f&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushti14115&layout=compact&theme=transparent&hide_border=true&title_color=f1c40f&text_color=ffffff" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srushti14115&show_icons=true&theme=tokyonight&hide_border=true&title_color=f1c40f" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srushti14115&theme=tokyonight&hide_border=true&stroke=f1c40f" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,canva,figma,postman,nodejs,express" />
 </p>
 
 ---
 
-### 🌐 CONNECT WITH THE DEVELOPER
 <p align="center">
-  <a href="https://www.linkedin.com/in/srushti-patil1411">
-    <img src="https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:srushtipatil14115@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srushti14115&label=SYSTEM+VISITS&color=f1c40f&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=srushti14115&label=ANALYTICS+VISITS&color=f1c40f&style=flat-square" />
 </p>
