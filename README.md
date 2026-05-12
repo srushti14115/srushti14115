@@ -3,9 +3,8 @@
   <img src="https://raw.githubusercontent.com/srushti14115/portfolio-assets/11d1faf6f4f49c9e1798add87b1150f17cfb2344/github%20banner.png" width="100%" height="200px" style="object-fit: cover;" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Welcome%20to%20Srushti%20Patil's%20Portfolio&fontSize=40&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e75b6&text=Welcome%20to%20Srushti%20Patil's%20Portfolio&fontSize=50&fontAlignY=50&fontWeight=800" />
 </p>
-
 ### 🎓 About Me
 
 
