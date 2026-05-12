@@ -1,10 +1,17 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srushti14115/portfolio-assets/11d1faf6f4f49c9e1798add87b1150f17cfb2344/github%20banner.png" width="100%" height="200px" style="object-fit: cover;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=220&section=header&reverce=false&text=%20&desc=%20&mainImage=https://raw.githubusercontent.com/srushti14115/portfolio-assets/11d1faf6f4f49c9e1798add87b1150f17cfb2344/github%20banner.png" width="100%" style="object-fit: cover;" />
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e75b6&text=Welcome%20to%20Srushti%20Patil's%20Portfolio&fontSize=50&fontAlignY=50&fontWeight=800" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9b59b6&text=Welcome%20to%20Srushti%20Patil's%20Portfolio&fontSize=45&fontAlignY=50&fontWeight=800&animation=twinkling" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srushti14115&label=Profile%20Views&color=9b59b6&style=flat-square" />
+</p>
+
+<br>
 ### 🎓 About Me
 
 
