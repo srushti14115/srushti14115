@@ -3,14 +3,8 @@
   <img src="https://raw.githubusercontent.com/srushti14115/portfolio-assets/11d1faf6f4f49c9e1798add87b1150f17cfb2344/github%20banner.png" width="100%" height="200px" style="object-fit: cover;" />
 </p>
 <h1 align="center">
-  $\color{#0e75b6}{\text{Welcome to Srushti Patil's Portfolio 👋}}$
+  $\color{#1abc9c}{\text{Welcome to Srushti Patil's Portfolio 👋}}$
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srushti14115&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
-
-<br>
 
 ### 🎓 About Me
 
