@@ -1,4 +1,6 @@
-## Welcome to Srushti Patil's Portfolio 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=200&section=header&text=SRUSHTI%20PATIL&fontSize=70&fontColor=7AA2F7&animation=twinkling&desc=DATA%20ANALYST%20•%20POWER%20BI%20•%20PYTHON&descSize=20&descAlignY=60" />
+</p>## Welcome to Srushti Patil's Portfolio 👋
 
 ### 🎓 About Me
 
