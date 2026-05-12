@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srushti14115/portfolio-assets/11d1faf6f4f49c9e1798add87b1150f17cfb2344/github%20banner.png" width="75
+  <img src="https://raw.githubusercontent.com/srushti14115/portfolio-assets/11d1faf6f4f49c9e1798add87b1150f17cfb2344/github%20banner.png" width="150
     %" alt="Srushti Patil Data Analyst Banner" />
 </p>
 ## Welcome to Srushti Patil's Portfolio 👋
