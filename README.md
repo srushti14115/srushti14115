@@ -10,19 +10,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&pause=2500&color=FF4FA3&center=true&vCenter=true&width=1000&lines=✨+Welcome+to+Srushti+Patil's+Portfolio+✨" />
 </p>
 
-<h2 align="center">
-
-<span style="background: linear-gradient(90deg,#4FACFE,#F9D423); -webkit-background-clip: text; color: transparent; font-weight: 800;">
-
-💫 DATA ANALYTICS • BUSINESS INTELLIGENCE 💫
-
-</span>
-
-</h2>
 
 
 
