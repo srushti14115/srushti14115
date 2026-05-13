@@ -3,12 +3,16 @@
   <img src="https://raw.githubusercontent.com/srushti14115/portfolio-assets/11d1faf6f4f49c9e1798add87b1150f17cfb2344/github%20banner.png" width="100%" height="200px" style="object-fit: cover;" />
 </p>
 
+
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=✨+Welcome+to+Srushti+Patil's+Portfolio+✨;
-    alt="Typing SVG" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&pause=1000&color=F1C40F&center=true&vCenter=true&width=900&lines=✨+Welcome+to+Srushti+Patil's+Portfolio+✨" />
 </p>
-<h2 align="center"> <img src="https://img.shields.io/badge/📊_Data_Analytics-6C63FF?style=for-the-badge&logo=googleanalytics&logoColor=white"/> <img src="https://img.shields.io/badge/💼_Business_Intelligence-FF4B91?style=for-the-badge&logo=powerbi&logoColor=white"/> </h2>
+
+<h2 align="center">
+
+💫 𝐃𝐀𝐓𝐀  𝐀𝐍𝐀𝐋𝐘𝐓𝐈𝐂𝐒 &nbsp; • &nbsp; 📊 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒 𝐈𝐍𝐓𝐄𝐋𝐋𝐈𝐆𝐄𝐍𝐂𝐄 💫
+
+</h2>
 ```
 ### 🎓 About Me
 
