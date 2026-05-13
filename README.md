@@ -5,9 +5,13 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&pause=1000&color=FF61D8&center=true&vCenter=true&width=1000&lines=✨+Welcome+to+Srushti+Patil's+Portfolio+✨;📊+Data+Analytics+%7C+Business+Intelligence;🚀+Python+%7C+SQL+%7C+Power+BI" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=✨+Welcome+to+Srushti+Patil's+Portfolio+✨;📊+Data+Analytics+%7C+Business+Intelligence;🚀+Python+%7C+SQL+%7C+Power+BI" 
+    alt="Typing SVG" 
+  />
 </p>
 ```
+
 ---
 
 ### 🎓 About Me
