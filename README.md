@@ -4,8 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f1c40f&text=Welcome%20to%20Srushti%20Patil's%20Portfolio&fontSize=45&fontAlignY=50&fontWeight=800&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=44&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=💜+Welcome+to+Srushti+Patil's+Portfolio;✨+Building+Data-Driven+Solutions;📈+Analytics+%7C+SQL+%7C+Power+BI" />
 </p>
+```
+
 
 ---
 
@@ -47,7 +49,6 @@
 
 </p>
 
-> 🔗 In future, clicking each icon can open its related project repository.
 
 ---
 
