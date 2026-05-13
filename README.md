@@ -5,15 +5,18 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&pause=1000&color=F1C40F&center=true&vCenter=true&width=900&lines=✨+Welcome+to+Srushti+Patil's+Portfolio+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&pause=2500&color=F1C40F&center=true&vCenter=true&width=1000&lines=✨+Welcome+to+Srushti+Patil's+Portfolio+✨" />
 </p>
 
 <h2 align="center">
 
-💫 𝐃𝐀𝐓𝐀  𝐀𝐍𝐀𝐋𝐘𝐓𝐈𝐂𝐒 &nbsp; • &nbsp; 📊 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒 𝐈𝐍𝐓𝐄𝐋𝐋𝐈𝐆𝐄𝐍𝐂𝐄 💫
+💫 𝐃𝐀𝐓𝐀 𝐀𝐍𝐀𝐋𝐘𝐓𝐈𝐂𝐒 &nbsp; • &nbsp; 📊 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒 𝐈𝐍𝐓𝐄𝐋𝐋𝐈𝐆𝐄𝐍𝐂𝐄 💫
 
 </h2>
 ```
+
+
+
 ### 🎓 About Me
 
 📊 Bachelor of Engineering student passionate about **Data Analytics** and **data-driven problem-solving**.  
