@@ -4,17 +4,27 @@
 </p>
 
 
+
+
+
+
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&pause=2500&color=F1C40F&center=true&vCenter=true&width=1000&lines=✨+Welcome+to+Srushti+Patil's+Portfolio+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&pause=2500&color=FF4FA3&center=true&vCenter=true&width=1000&lines=✨+Welcome+to+Srushti+Patil's+Portfolio+✨" />
 </p>
 
 <h2 align="center">
 
-💫 𝐃𝐀𝐓𝐀 𝐀𝐍𝐀𝐋𝐘𝐓𝐈𝐂𝐒 &nbsp; • &nbsp; 📊 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒 𝐈𝐍𝐓𝐄𝐋𝐋𝐈𝐆𝐄𝐍𝐂𝐄 💫
+<span style="background: linear-gradient(90deg,#4FACFE,#F9D423); -webkit-background-clip: text; color: transparent; font-weight: 800;">
+
+💫 DATA ANALYTICS • BUSINESS INTELLIGENCE 💫
+
+</span>
 
 </h2>
-```
 
+```
 
 
 ### 🎓 About Me
