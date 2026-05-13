@@ -3,12 +3,11 @@
   <img src="https://raw.githubusercontent.com/srushti14115/portfolio-assets/11d1faf6f4f49c9e1798add87b1150f17cfb2344/github%20banner.png" width="100%" height="200px" style="object-fit: cover;" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=44&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=💜+Welcome+to+Srushti+Patil's+Portfolio;✨+Building+Data-Driven+Solutions;📈+Analytics+%7C+SQL+%7C+Power+BI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&pause=1000&color=FF61D8&center=true&vCenter=true&width=1000&lines=✨+Welcome+to+Srushti+Patil's+Portfolio+✨;📊+Data+Analytics+%7C+Business+Intelligence;🚀+Python+%7C+SQL+%7C+Power+BI" />
 </p>
 ```
-
-
 ---
 
 ### 🎓 About Me
