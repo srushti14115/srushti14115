@@ -1,110 +1,97 @@
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srushti14115/portfolio-assets/11d1faf6f4f49c9e1798add87b1150f17cfb2344/github%20banner.png" width="100%" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=38&pause=1000&color=F7C548&center=true&vCenter=true&width=900&lines=Welcome+to+Srushti+Patil's+Portfolio;Data+Analytics+%7C+Power+BI+%7C+SQL;Creating+Modern+Data+Experiences+✨" />
-</h1>
-
----
-
-<h3 align="center">📱 Portfolio Apps</h3>
-
-<p align="center">
-
-<a href="mailto:srushtipatil14115@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-181818?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181818"/>
-</a>
-
-<a href="https://www.linkedin.com/in/srushti-patil1411">
-<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/srushti14115">
-<img src="https://img.shields.io/badge/💻_GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/srushti14115/portfolio-assets/11d1faf6f4f49c9e1798add87b1150f17cfb2344/github%20banner.png" width="100%" height="200px" style="object-fit: cover;" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f1c40f&text=Welcome%20to%20Srushti%20Patil's%20Portfolio&fontSize=45&fontAlignY=50&fontWeight=800&animation=fadeIn" />
 </p>
 
 ---
 
 ### 🎓 About Me
 
-<div align="center">
-
-| 🚀 Learning | 📊 Focus | 💡 Goal |
-|---|---|---|
-| Real-world analytics projects | Data Analytics & BI | Building impactful dashboards |
-
-</div>
-
-<br>
-
 📊 Bachelor of Engineering student passionate about **Data Analytics** and **data-driven problem-solving**.  
 
-📈 Interested in uncovering insights, creating dashboards, and solving business problems using data.  
+📈 Interested in working with data to uncover patterns, generate actionable insights, and support smarter decision-making.  
 
-✨ Continuously improving through practical projects and modern analytics tools.  
-
----
-
-### ⚡ Interactive Dashboard
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=srushti14115&show_icons=true&theme=transparent&hide_border=true&title_color=F7C548&icon_color=F7C548&text_color=ffffff"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srushti14115&theme=transparent&hide_border=true&ring=F7C548&fire=F7C548&currStreakLabel=F7C548"/>
-
-</p>
+🚀 Continuously learning and improving through real-world analytics and dashboard development projects.  
 
 ---
 
-### 📱 Tech Stack Apps
+### ✨ Skills & Insights
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode"/>
-
-</p>
+✔ Strong interest in **Data Analytics** and **Business Intelligence**  
+✔ Hands-on experience with **Python, SQL, Power BI, and Excel**  
+✔ Skilled in **Data Cleaning, Visualization, and Reporting**  
+✔ Building practical analytics and dashboard projects  
+✔ Focused on solving business problems using data  
 
 ---
 
-### 🌐 Connect
+### 📂 Featured Technologies
 
 <p align="center">
 
-<a href="mailto:srushtipatil14115@gmail.com">
-<img src="https://img.shields.io/badge/Open_Email_App-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/yourusername/powerbi-project">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </a>
+
+<a href="https://github.com/yourusername/sql-project">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</a>
+
+<a href="https://github.com/yourusername/excel-project">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</a>
+
+</p>
+
+> 🔗 In future, clicking each icon can open its related project repository.
+
+---
+
+### 🌐 Socials
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/srushti-patil1411">
-<img src="https://img.shields.io/badge/Open_LinkedIn_App-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:srushtipatil14115@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+### 💻 Other Skills
+
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=F7C548&section=footer"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" />
 
 </p>
 
+---
+
+### 🔝 Top Contributions
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srushti14115&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ```
